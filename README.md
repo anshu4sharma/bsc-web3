@@ -2,7 +2,8 @@
 
 ## Overview
     This project is designed for interacting with a smart contract deployed on the Binance Smart Chain testnet (bsctestnet). It includes functionalities for event listening, data storage into a MongoDB database, and interaction with the BSC testnet via Web3 library.
-
+## Smart Contract Link
+    - https://testnet.bscscan.com/address/0x07C85903D4bC6EAE4B97Fe4b131Ecd1a28Fd5167#events
 ## Folder Structure
     src/: Contains source code files.
       - controller/: Controllers for handling business logic.
