@@ -6,6 +6,7 @@
   "scripts": {
     "start": "tsc && node build/index.js",
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
+    "event": "ts-node-dev --respawn --transpile-only src/event.ts",
     "build": "tsc"
   },
   "devDependencies": {
